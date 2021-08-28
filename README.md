@@ -20,6 +20,6 @@ Available on telegram as [DOREMON music](http://t.me/king1206_bot)
 - ⚜️ /fplay Plays the replied audio file or YouTube video through link.__ 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akshit1704/doremon-music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/akshit1704/doreamon-music)
 
 [![Run on Repl.it](https://repl.it/badge/github/kaal0408/KAAlUserbot&theme=midnight-purple)](https://replit.com/@akshitbisht/pyrogam-session-string-by-akshit)
